@@ -1,0 +1,6 @@
+FirstPhrase = input("Первая фраза:")
+SecondPhrase = input("Вторая фраза:")
+ThirdPhrase = input("Третья фраза:")
+print(FirstPhrase)
+print(SecondPhrase)
+print(ThirdPhrase)
