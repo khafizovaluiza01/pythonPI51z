@@ -1,4 +1,4 @@
-name = input('Enter your word: ')
+name = input('Enter a word: ')
 word = 'python'
 if name == word:
     print('да')
