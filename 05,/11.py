@@ -1,4 +1,4 @@
-n= int(input())
+n= int(input('Enter a number: '))
 
 total_iq = 0
 iq_list = []
